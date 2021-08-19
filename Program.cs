@@ -8,7 +8,7 @@ class LINQQueryExpressions
     {
 
         // Specify the data source.
-        int[] scores = new int[] { 97, 92, 81, 60 };
+        int[] scores = new int[] { 97, 92, 81, 59 };
 
         // Define the query expression.
         IEnumerable<int> scoreQuery =
